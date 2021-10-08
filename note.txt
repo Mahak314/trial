@@ -1,0 +1,5 @@
+git init 
+git add .    - saari files stage ho jaati h i.e. working directory se staging area mai aa gyi
+git commit  -m "version 1"     - this is syntax learn kr 
+for changing details(name) -   git config --global 
+
